@@ -1,0 +1,26 @@
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Release\LogFileManipulator.exe.config
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Release\LogFileManipulator.exe
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Release\LogFileManipulator.pdb
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\MainWindow.baml
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\MainWindow.g.cs
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\App.g.cs
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\LogFileManipulator_MarkupCompile.cache
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\LogFileManipulator.g.resources
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\LogFileManipulator.Properties.Resources.resources
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\TestApp.csproj.GenerateResource.Cache
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\LogFileManipulator.exe
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\LogFileManipulator.pdb
+C:\Users\Kiran Rao\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\bin\Release\LogFileManipulator.exe.config
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\LogFileManipulator.exe
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\LogFileManipulator.pdb
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\bin\Release\LogFileManipulator.exe
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\bin\Release\LogFileManipulator.pdb
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\MainWindow.baml
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\MainWindow.g.cs
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\App.g.cs
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\LogFileManipulator_MarkupCompile.cache
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\LogFileManipulator.g.resources
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\LogFileManipulator.Properties.Resources.resources
+C:\Users\Kiran Rao\Documents\TestApp\TestApp\obj\Release\TestApp.csproj.GenerateResource.Cache

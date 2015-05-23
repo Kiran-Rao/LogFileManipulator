@@ -1,0 +1,4 @@
+<Application x:Class="LogFileManipulator.App"
+    <Application.Resources>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,16 @@
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\TestApp\TestApp\bin\Debug\LogFileManipulator.exe.config
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\TestApp\TestApp\obj\Debug\LogFileManipulator.exe
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\TestApp\TestApp\obj\Debug\LogFileManipulator.pdb
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\bin\Debug\LogFileManipulator.exe.config
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\LogFileManipulator.exe
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\LogFileManipulator.pdb
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\bin\Debug\LogFileManipulator.exe
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\bin\Debug\LogFileManipulator.pdb
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\Log File Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\MainWindow.baml
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\App.g.cs
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\LogFileManipulator_MarkupCompile.cache
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\LogFileManipulator.g.resources
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\LogFileManipulator.Properties.Resources.resources
+C:\Users\Kiran Rao\Documents\Visual Studio 2013\Projects\LogFileManipulator\TestApp\obj\Debug\Log File Manipulator.csproj.GenerateResource.Cache

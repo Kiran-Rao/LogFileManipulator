@@ -1,0 +1,47 @@
+using Microsoft.Win32;
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+            //Microsoft.Win32.OpenFileDialog fileDialog = new Microsoft.Win32.OpenFileDialog();
+        private void Add_RegexColumn(string s1, string s2)
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(1, GridUnitType.Auto));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(1, GridUnitType.Auto));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(1, GridUnitType.Star));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(1, GridUnitType.Auto));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(0, GridUnitType.Star));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(0, GridUnitType.Star));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(0, GridUnitType.Star));
+            gridRow.ColumnDefinitions.Add(Create_Column_Definition(1, GridUnitType.Auto));
+            comboBox.Margin = new Thickness(5);
+            comboBox.MinWidth = 100;
+            comboBox.SelectedIndex = 0;
+            Grid.SetColumn(comboBox, 0);
+            Label l = Create_Regex_Label(1);
+            t.Margin = new Thickness(0, 5, 0, 5);
+            t.Text = s1;
+            Grid.SetColumn(t, 2);
+            l = Create_Regex_Label(3);
+            //Grid.SetColumn(l, 3);
+            l = Create_Regex_Label(4);
+            t.Margin = new Thickness(0, 5, 0, 5);
+            t.Text = s2;
+            Grid.SetColumn(t, 5);
+            l = Create_Regex_Label(6);
+            b.Margin = new Thickness(5);
+            Grid.SetColumn(b, 7);
+                grid.ColumnDefinitions[4].Width = new GridLength(0, GridUnitType.Star);
+                grid.ColumnDefinitions[5].Width = new GridLength(0, GridUnitType.Star);
+                grid.ColumnDefinitions[6].Width = new GridLength(0, GridUnitType.Star);
+                grid.ColumnDefinitions[4].Width = new GridLength(1, GridUnitType.Auto);
+                grid.ColumnDefinitions[5].Width = new GridLength(1, GridUnitType.Star);
+                grid.ColumnDefinitions[6].Width = new GridLength(1, GridUnitType.Auto);
+            Left_Column.Width = new GridLength(1, GridUnitType.Star);
+            Right_Column.Width = new GridLength(1, GridUnitType.Star);
+            if (e.ClickCount == 1)
+                if (fileDialog.FileNames.Count<string>() > 1)
+                string operation = (row.Children[0] as ComboBox).Text;
+                string a = (row.Children[2] as TextBox).Text;
+                string b = (row.Children[5] as TextBox).Text;
+                    (row.Children[2] as TextBox).Background = Brushes.White;
+                    (row.Children[2] as TextBox).ClearValue(TextBox.ToolTipProperty);
+                    ToolTipService.SetShowDuration(t, 10000);
+                    (row.Children[2] as TextBox).ToolTip = t;
+                    (row.Children[2] as TextBox).Background = Brushes.OrangeRed;
