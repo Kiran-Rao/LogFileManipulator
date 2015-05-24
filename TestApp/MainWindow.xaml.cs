@@ -122,35 +122,35 @@ namespace LogFileManipulator
             Grid.SetColumn(comboBox, 0);
             gridRow.Children.Add(comboBox);
 
-            Label l = Create_Regex_Label(1);
-            gridRow.Children.Add(l);
+            Label label = Create_Regex_Label(1);
+            gridRow.Children.Add(label);
 
-            TextBox t = new TextBox();
-            t.VerticalAlignment = System.Windows.VerticalAlignment.Center;
-            t.Margin = new Thickness(0, 5, 0, 5);
-            t.Text = s1;
-            t.LostFocus += RegexBox_LostFocus;
-            Grid.SetColumn(t, 2);
-            gridRow.Children.Add(t);
+            TextBox textBox = new TextBox();
+            textBox.VerticalAlignment = System.Windows.VerticalAlignment.Center;
+            textBox.Margin = new Thickness(0, 5, 0, 5);
+            textBox.Text = s1;
+            textBox.LostFocus += RegexBox_LostFocus;
+            Grid.SetColumn(textBox, 2);
+            gridRow.Children.Add(textBox);
 
-            l = Create_Regex_Label(3);
-            //Grid.SetColumn(l, 3);
-            gridRow.Children.Add(l);
+            label = Create_Regex_Label(3);
+            //Grid.SetColumn(label, 3);
+            gridRow.Children.Add(label);
 
-            l = Create_Regex_Label(4);
-            gridRow.Children.Add(l);
+            label = Create_Regex_Label(4);
+            gridRow.Children.Add(label);
 
-            t = new TextBox();
-            t.VerticalAlignment = System.Windows.VerticalAlignment.Center;
-            t.Margin = new Thickness(0, 5, 0, 5);
-            t.Text = s2;
-            t.LostFocus += RegexBox_LostFocus;
-            t.Tag = "second";
-            Grid.SetColumn(t, 5);
-            gridRow.Children.Add(t);
+            textBox = new TextBox();
+            textBox.VerticalAlignment = System.Windows.VerticalAlignment.Center;
+            textBox.Margin = new Thickness(0, 5, 0, 5);
+            textBox.Text = s2;
+            textBox.LostFocus += RegexBox_LostFocus;
+            textBox.Tag = "second";
+            Grid.SetColumn(textBox, 5);
+            gridRow.Children.Add(textBox);
 
-            l = Create_Regex_Label(6);
-            gridRow.Children.Add(l);
+            label = Create_Regex_Label(6);
+            gridRow.Children.Add(label);
 
             Button deleteLineButton = new Button();
             deleteLineButton.Margin = new Thickness(5);
@@ -272,11 +272,11 @@ namespace LogFileManipulator
                 }
                 catch (System.ArgumentException e)
                 {   
-                    ToolTip t = new ToolTip();
-                    t.Content = e.Message;
-                    ToolTipService.SetShowDuration(t, 10000);
+                    ToolTip toolTip = new ToolTip();
+                    toolTip.Content = e.Message;
+                    ToolTipService.SetShowDuration(toolTip, 10000);
 
-                    (row.Children[2] as TextBox).ToolTip = t;
+                    (row.Children[2] as TextBox).ToolTip = toolTip;
                     (row.Children[2] as TextBox).Background = Brushes.OrangeRed;
                 }
             }
